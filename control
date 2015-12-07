@@ -1,0 +1,9 @@
+Package: com.chikuwa.runfieldtestaction
+Name: RunFieldTestAction
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Chikuwa
+Author: Chikuwa
+Section: Tweaks
